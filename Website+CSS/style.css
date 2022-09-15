@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;500;800&display=swap');
+
+/* WEBSITE */
+body {
+    background:  ;
+}
+
+/* DIVS */
+#header {
+    position: relative;
+    background: ;
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+}
+
+#nav {
+    position: relative;
+    background: ;
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+}
+
+#section {
+    position: relative;
+    background: ;
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#footer {
+    position: relative;
+    background: ;
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+    text-align: ;
+}
+
+#titles {
+    position: relative;
+    background: ;
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+}
+
+/* LINKS */
+
+a {
+    color: ;
+}
+
+a:hover {
+    color: ;
+}
+
+a:visited {
+    color: ;
+}
+
+/* TEXT */
+p {
+    font-family: ;
+}
+
+h1 {
+    font-family: ;
+    font-weight: ;
+}
+
+#titles h1 {
+    text-align: ;
+}
+
+ul {
+    font-family: ;
+}
+
+h4 {
+    font-family: ;
+    font-weight: ;
+}
+
+/* NAV */
+
+#nav ul {
+    text-align: center;
+    font-family: ;
+}
+#nav li {
+    display: inline;
+    padding-right: ;
+}
+
+/* TABLES */
+table {
+    font-family: ;
+}
+
+th {
+    text-align: ;
+    background: ;
+    color: ;
+}
+
+th, td {
+    border: ;
+    padding: ;
+}
+
+/* HEADER */
+#header img {
+    width: 100%;
+}
+
+/* SPACE */
+.spacing {
+    padding: ;
+    margin: ;
+}
+
+/* RESPONSIVE */
+.respond {
+    width: 100%;
+    max-width: ;
+}
+
+.video {
+    max-width: 560px;
+    height: 315px;
+    width: 100%;
+}
+
+/* ALIGN */
+.lefty {
+    float: left;
+    margin-right: ;
+    margin-bottom: ;
+}
+
+/* SIDEBAR */
+.sidebar {
+float: right;
+width: ;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+margin-left: ;
+}
+
+.sidebar-bottom {
+display: none;
+}
+
+@media screen and (max-width: 930px) {
+
+.sidebar {
+display: none;
+}
+
+.sidebar-bottom {
+display: block;
+position: relative;
+width: 90%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: ;
+}
+}
