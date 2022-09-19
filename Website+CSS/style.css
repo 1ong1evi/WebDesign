@@ -2,13 +2,13 @@
 
 /* WEBSITE */
 body {
-    background:  ;
+    background:  gainsboro;
 }
 
 /* DIVS */
 #header {
     position: relative;
-    background: ;
+    background: black;
     max-width: 900px;
     width: 90%;
     margin: auto;
@@ -16,7 +16,7 @@ body {
 
 #nav {
     position: relative;
-    background: ;
+    background: rgba(104, 98, 98, 0.678);
     max-width: 900px;
     width: 90%;
     margin: auto;
@@ -24,7 +24,7 @@ body {
 
 #section {
     position: relative;
-    background: ;
+    background: black;
     max-width: 900px;
     width: 90%;
     margin: auto;
@@ -33,16 +33,16 @@ body {
 
 #footer {
     position: relative;
-    background: ;
+    background: gray;
     max-width: 900px;
     width: 90%;
     margin: auto;
-    text-align: ;
+    text-align: right;
 }
 
 #titles {
     position: relative;
-    background: ;
+    background: black;
     max-width: 900px;
     width: 90%;
     margin: auto;
@@ -51,38 +51,38 @@ body {
 /* LINKS */
 
 a {
-    color: ;
+    color: rgba(24, 0, 241, 0.568);
 }
 
 a:hover {
-    color: ;
+    color: black;
 }
 
 a:visited {
-    color: ;
+    color: rgba(24, 0, 241, 0.568);
 }
 
 /* TEXT */
 p {
-    font-family: ;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
-    font-family: ;
-    font-weight: ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 #titles h1 {
-    text-align: ;
+    text-align: center;
 }
 
 ul {
-    font-family: ;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h4 {
-    font-family: ;
-    font-weight: ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 /* NAV */
@@ -98,18 +98,18 @@ h4 {
 
 /* TABLES */
 table {
-    font-family: ;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 th {
-    text-align: ;
-    background: ;
-    color: ;
+    text-align: center;
+    background: white;
+    color: black;
 }
 
 th, td {
-    border: ;
-    padding: ;
+    border: medium;
+    padding: 0%;
 }
 
 /* HEADER */
@@ -119,7 +119,7 @@ th, td {
 
 /* SPACE */
 .spacing {
-    padding: ;
+    padding: 0;
     margin: ;
 }
 
