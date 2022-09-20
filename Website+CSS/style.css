@@ -89,11 +89,11 @@ h4 {
 
 #nav ul {
     text-align: center;
-    font-family: ;
+    font-family: 'Times New Roman', Times, serif;
 }
 #nav li {
     display: inline;
-    padding-right: ;
+    padding-right: 0;
 }
 
 /* TABLES */
@@ -120,13 +120,13 @@ th, td {
 /* SPACE */
 .spacing {
     padding: 0;
-    margin: ;
+    margin: 0%;
 }
 
 /* RESPONSIVE */
 .respond {
     width: 100%;
-    max-width: ;
+    max-width: none;
 }
 
 .video {
@@ -138,18 +138,18 @@ th, td {
 /* ALIGN */
 .lefty {
     float: left;
-    margin-right: ;
-    margin-bottom: ;
+    margin-right: 5%;
+    margin-bottom: 5%;
 }
 
 /* SIDEBAR */
 .sidebar {
 float: right;
-width: ;
+width: 320px;
 height: auto;
 margin-left: auto;
 margin-right: auto;
-margin-left: ;
+margin-left: 5%;
 }
 
 .sidebar-bottom {
@@ -169,6 +169,6 @@ width: 90%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
-margin-bottom: ;
+margin-bottom: 5%;
 }
 }
