@@ -16,7 +16,7 @@ body {
 
 #nav {
     position: relative;
-    background: rgba(104, 98, 98, 0.678);
+    background: none;
     max-width: 900px;
     width: 90%;
     margin: auto;
@@ -51,7 +51,7 @@ body {
 /* LINKS */
 
 a {
-    color: rgba(24, 0, 241, 0.568);
+    color: white;
 }
 
 a:hover {
@@ -59,7 +59,7 @@ a:hover {
 }
 
 a:visited {
-    color: rgba(24, 0, 241, 0.568);
+    color: white;
 }
 
 /* TEXT */
