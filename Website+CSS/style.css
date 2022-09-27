@@ -145,7 +145,7 @@ th, td {
 /* SIDEBAR */
 .sidebar {
 float: right;
-width: 30%;
+width: 40%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
@@ -156,7 +156,7 @@ margin-left: 5%;
 display: none;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 930px) {
 
 .sidebar {
 display: none;
@@ -165,7 +165,7 @@ display: none;
 .sidebar-bottom {
 display: block;
 position: relative;
-width: 90%;
+width: 80%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
