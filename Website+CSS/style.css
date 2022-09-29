@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;500;800&display=swap');
 
+
 /* WEBSITE */
 body {
     background: #4374ee;
@@ -52,19 +53,23 @@ body {
 
 a {
     color: white;
+    text-decoration: none;
 }
 
 a:hover {
-    color: black;
+   color: rgb(255, 217, 0);
+   text-decoration: none;
 }
 
 a:visited {
-    color: white;
+    color: rgb(196, 196, 196);
+    text-decoration: none;
 }
 
 /* TEXT */
 p {
     font-family: 'Times New Roman', Times, serif;
+    margin: 5%;
 }
 
 h1 {
@@ -78,11 +83,17 @@ h1 {
 
 ul {
     font-family: 'Times New Roman', Times, serif;
+    margin: 5%;
 }
 
 h4 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+}
+/* IMG */
+
+.img-decoration {
+    margin: 5%;
 }
 
 /* NAV */
@@ -90,15 +101,18 @@ h4 {
 #nav ul {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 }
 #nav li {
     display: inline;
-    padding-right: 0;
+    padding-right: 40px;
+
 }
 
 /* TABLES */
 table {
     font-family: 'Times New Roman', Times, serif;
+    margin: 5%;
 }
 
 th {
@@ -145,7 +159,7 @@ th, td {
 /* SIDEBAR */
 .sidebar {
 float: right;
-width: 50%;
+width: 45%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
