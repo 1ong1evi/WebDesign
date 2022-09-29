@@ -145,11 +145,10 @@ th, td {
 /* SIDEBAR */
 .sidebar {
 float: right;
-width: 40%;
+width: 50%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
-margin-left: 5%;
 }
 
 .sidebar-bottom {
