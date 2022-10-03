@@ -30,6 +30,7 @@ body {
     width: 90%;
     margin: auto;
     overflow: hidden;
+    padding: 1%;
 }
 
 #footer {
@@ -69,7 +70,6 @@ a:visited {
 /* TEXT */
 p {
     font-family: 'Times New Roman', Times, serif;
-    margin: 5%;
 }
 
 h1 {
@@ -89,11 +89,6 @@ ul {
 h4 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-}
-/* IMG */
-
-.img-decoration {
-    margin: 5%;
 }
 
 /* NAV */
@@ -159,7 +154,7 @@ th, td {
 /* SIDEBAR */
 .sidebar {
 float: right;
-width: 45%;
+width: 30%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
@@ -178,7 +173,7 @@ display: none;
 .sidebar-bottom {
 display: block;
 position: relative;
-width: 80%;
+width: 30%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
