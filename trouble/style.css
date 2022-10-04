@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;500;800&display=swap');
+
+/* WEBSITE BACKGROUND */
+body {
+	background: #942e2c;
+}
+
+/* DIVS */
+#header {
+	position: relative;
+	background: #d6cfcb;
+	max-width: 900px;
+	width: 90%;
+	margin: auto;
+}
+
+#nav {
+	position: relative;
+	background: #d6cfcb;
+	max-width: 900px;
+	width: 90%;
+	margin: auto;
+}
+
+#section {
+	position: relative;
+	background: #d6cfcb;
+	max-width: 900px;
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#footer {
+	position: relative;
+	background: #d6cfcb;
+	max-width: 900px;
+	width: 90%;
+	margin: auto;
+}
+
+#titles {
+	position: relative;
+	background: #d6cfcb;
+	max-width: 900px;
+	width: 90%;
+	margin: auto;
+}
+
+/* LINKS */
+
+a {
+	color: #942e2c;
+}
+
+a:hover {
+	color: #222222;
+}
+
+a:visited {
+	color: #838383;
+}
+
+/* TEXT */
+p {
+	font-family: manrope;
+}
+
+h1 {
+	font-family: manrope;
+	font-weight: 800;
+}
+
+#titles h1 {
+	text-align: center;
+}
+
+ul {
+	font-family: manrope;
+}
+
+h5 {
+	font-family: manrope;
+	font-weight: 800;
+}
+
+/* NAV */
+
+#nav ul {
+	text-align: center;
+	font-family: manrope;
+}
+#nav li {
+	display: inline
+	padding-right: 30px;
+}
+
+/* HEADER */
+#header img {
+	width: 100%;
+}
+
+/* SPACE */
+.spacing {
+	padding: 5px;
+	margin: 20px;
+}
+
+/* RESPONSIVE */
+.respond {
+	width: 100%;
+	max-width: 450px;
+}
+
+/* ALIGN */
+.lefty {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+/* SIDEBAR */
+.sidebar {
+float: right;
+width: 40%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+margin-left: 10px;
+background: #222222;
+color: white;
+padding: 10px;
+}
+
+.sidebar-bottom {
+display: none;
+}
+
+
+@media screen and (max-width: 960px) {
+
+.sidebar {
+display: none;
+}
+
+.sidebar-bottom {
+display: block;
+position: relative;
+width: 100%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+color: white;
+background: #222222;
+
+}
+}
