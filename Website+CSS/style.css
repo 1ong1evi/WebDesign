@@ -154,7 +154,7 @@ th, td {
 /* SIDEBAR */
 .sidebar {
 float: right;
-width: 30%;
+width: 34%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
@@ -171,12 +171,13 @@ display: none;
 }
 
 .sidebar-bottom {
+float: left;
 display: block;
 position: relative;
 width: 30%;
 height: auto;
 margin-left: auto;
 margin-right: auto;
-margin-bottom: 20px;
+margin-bottom: 10px;
 }
 }
