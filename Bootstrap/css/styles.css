@@ -3094,12 +3094,12 @@ textarea.form-control-lg {
 
 .btn-success {
   color: #000;
-  background-color: #ffffff;
+  background-color: #67c29c;
   border-color: #67c29c;
 }
 .btn-success:hover {
   color: #000;
-  background-color: #ffffff;
+  background-color: #7ecbab;
   border-color: #76c8a6;
 }
 .btn-check:focus + .btn-success, .btn-success:focus {
