@@ -1,6 +1,15 @@
 .contact-section {
     padding-top: 1rem;
 }
-$('.carousel').carousel({
-    interval: 2000
-  })
+.bg-black {
+    --bs-bg-opacity: .9;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #8a7d84;
+}
+
+.projects-section .featured-text {
+    padding: 0 0 0 2rem;
+    border-left: 0.5rem solid gray;
+}
