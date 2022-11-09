@@ -13,3 +13,15 @@
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid gray;
 }
+
+#mainNav.navbar-shrink .nav-link.active {
+    color: #000000;
+    outline: none;
+    border-bottom: 0.25rem solid #8a7d84;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #000706;
+    border-color: #010f0e;
+}
