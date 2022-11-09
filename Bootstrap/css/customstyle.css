@@ -25,3 +25,7 @@
     background-color: #000706;
     border-color: #010f0e;
 }
+
+#mainNav.navbar-shrink .nav-link:hover {
+    color: #8a7d84;
+}
