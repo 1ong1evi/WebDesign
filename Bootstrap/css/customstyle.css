@@ -29,8 +29,7 @@
 #mainNav.navbar-shrink .nav-link:hover {
     color: #8a7d84;
 }
-
-.h5 {
-    text-align: center;
-    border: 3px solid green;
+.text-belowvid {
+    --bs-text-opacity: 1;
+    color: rgb(0, 0, 0) !important;
 }
