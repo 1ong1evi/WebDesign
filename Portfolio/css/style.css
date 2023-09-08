@@ -240,9 +240,18 @@ a {
   color: dodgerblue;
   text-decoration: underline;
 }
+at {
+  color: #343a40;
+  margin: 20px;
+}
+
 a:hover {
   color: #2a0934;
 }
+at:hover {
+  color: #2a0934;
+}
+
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
   color: inherit;
